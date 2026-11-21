@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "arcane",
+	"version": "${version}",
+	"name": "Arcane Games",
+	"description": "A modular Minecraft minigames mod. Chess rules core in active development.",
+	"authors": ["B1progame"],
+	"license": "MIT",
+	"icon": "assets/arcane/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.arcane.Arcane"
+		],
+		"client": [
+			"com.example.arcane.client.ArcaneClient"
+		],
+		"modmenu": [
+			"com.example.arcane.client.ArcaneModMenu"
+		],
+		"fabric-datagen": [
+			"com.example.arcane.client.ArcaneDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*",
+		"geckolib": ">=5.5.7"
+	}
+}

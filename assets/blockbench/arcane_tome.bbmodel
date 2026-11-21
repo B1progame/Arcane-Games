@@ -1,0 +1,353 @@
+{
+    "meta":  {
+                 "format_version":  "4.10",
+                 "model_format":  "bedrock",
+                 "box_uv":  true
+             },
+    "textures":  [
+                     {
+                         "visible":  true,
+                         "id":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a20",
+                         "namespace":  "",
+                         "uv_height":  16,
+                         "uv_width":  16,
+                         "name":  "chessboard.png",
+                         "source":  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAX0lEQVR4nGMscFX/z0ABYAERWblqZGmeNvkWAxOMwyYVzhBVep1oGg4KXNX/39rk+99EXeX/gzNLiKZBesDeL4AaQIpmEI1hgMmoC/6PhoEv2WHACCIoyUxgA8jSDQUAUHe8lIXHgRoAAAAASUVORK5CYII=",
+                         "height":  16,
+                         "particle":  true,
+                         "width":  16,
+                         "mode":  "bitmap",
+                         "path":  "textures/chessboard.png",
+                         "folder":  "textures",
+                         "render_mode":  "default",
+                         "saved":  true
+                     }
+                 ],
+    "elements":  [
+                     {
+                         "box_uv":  true,
+                         "origin":  [
+                                        8,
+                                        16,
+                                        8
+                                    ],
+                         "color":  0,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  0
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  0
+                                                 },
+                                       "up":  {
+                                                  "uv":  [
+                                                             0,
+                                                             0,
+                                                             16,
+                                                             16
+                                                         ],
+                                                  "texture":  0
+                                              },
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                },
+                                       "down":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                }
+                                   },
+                         "name":  "Tome base",
+                         "from":  [
+                                      0,
+                                      15,
+                                      0
+                                  ],
+                         "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a01",
+                         "rotation":  [
+                                          0,
+                                          0,
+                                          0
+                                      ],
+                         "to":  [
+                                    16,
+                                    17,
+                                    16
+                                ]
+                     },
+                     {
+                         "box_uv":  true,
+                         "origin":  [
+                                        8,
+                                        17,
+                                        0
+                                    ],
+                         "color":  1,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  0
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  0
+                                                 },
+                                       "up":  {
+                                                  "uv":  [
+                                                             0,
+                                                             0,
+                                                             16,
+                                                             16
+                                                         ],
+                                                  "texture":  0
+                                              },
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                },
+                                       "down":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                }
+                                   },
+                         "name":  "Opening cover",
+                         "from":  [
+                                      0,
+                                      17,
+                                      0
+                                  ],
+                         "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a02",
+                         "rotation":  [
+                                          0,
+                                          0,
+                                          0
+                                      ],
+                         "to":  [
+                                    16,
+                                    18,
+                                    16
+                                ]
+                     },
+                     {
+                         "box_uv":  true,
+                         "origin":  [
+                                        8,
+                                        16,
+                                        0
+                                    ],
+                         "color":  2,
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  0
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "texture":  0
+                                                 },
+                                       "up":  {
+                                                  "uv":  [
+                                                             0,
+                                                             0,
+                                                             16,
+                                                             16
+                                                         ],
+                                                  "texture":  0
+                                              },
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                },
+                                       "down":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "texture":  0
+                                                }
+                                   },
+                         "name":  "Gold spine edge",
+                         "from":  [
+                                      0,
+                                      16.5,
+                                      0
+                                  ],
+                         "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a03",
+                         "rotation":  [
+                                          0,
+                                          0,
+                                          0
+                                      ],
+                         "to":  [
+                                    16,
+                                    17,
+                                    1
+                                ]
+                     }
+                 ],
+    "visible_box":  [
+                        3.5,
+                        3,
+                        3.5
+                    ],
+    "outliner":  [
+                     {
+                         "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a10",
+                         "name":  "root",
+                         "origin":  [
+                                        8,
+                                        16,
+                                        8
+                                    ],
+                         "children":  [
+                                          "c743be8d-6c66-4c8a-9a31-8ee2614b6a01",
+                                          {
+                                              "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a11",
+                                              "name":  "cover",
+                                              "origin":  [
+                                                             8,
+                                                             17,
+                                                             0
+                                                         ],
+                                              "children":  [
+                                                               "c743be8d-6c66-4c8a-9a31-8ee2614b6a02"
+                                                           ]
+                                          },
+                                          "c743be8d-6c66-4c8a-9a31-8ee2614b6a03"
+                                      ]
+                     }
+                 ],
+    "resolution":  {
+                       "height":  16,
+                       "width":  16
+                   },
+    "name":  "Arcane Tome Chessboard",
+    "model_identifier":  "geometry.arcane.chessboard",
+    "animations":  [
+                       {
+                           "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a30",
+                           "name":  "Open tome",
+                           "override":  false,
+                           "loop":  "once",
+                           "length":  0.7,
+                           "animators":  {
+                                             "c743be8d-6c66-4c8a-9a31-8ee2614b6a11":  {
+                                                                                          "keyframes":  [
+                                                                                                            {
+                                                                                                                "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a31",
+                                                                                                                "time":  0,
+                                                                                                                "channel":  "rotation",
+                                                                                                                "data_points":  [
+                                                                                                                                    {
+                                                                                                                                        "y":  "0",
+                                                                                                                                        "z":  "0",
+                                                                                                                                        "x":  "0"
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "uuid":  "c743be8d-6c66-4c8a-9a31-8ee2614b6a32",
+                                                                                                                "time":  0.7,
+                                                                                                                "channel":  "rotation",
+                                                                                                                "data_points":  [
+                                                                                                                                    {
+                                                                                                                                        "y":  "0",
+                                                                                                                                        "z":  "0",
+                                                                                                                                        "x":  "-112"
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                          "name":  "cover",
+                                                                                          "type":  "bone"
+                                                                                      }
+                                         }
+                       }
+                   ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GPG",
+    "EBE",
+    "GPG"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "P": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_pearl",
+    "B": "minecraft:book"
+  },
+  "result": {
+    "id": "arcane:arcane_tome",
+    "count": 1
+  }
+}
