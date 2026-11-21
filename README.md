@@ -1,6 +1,6 @@
 # Arcane Games: MineCraft chess foundation
 
-Arcane Games is an in-progress Minecraft minigames mod targeting Java Edition 26.3. Fabric is the current game platform; the plain Java rules and minigame registry now live in the `common` Gradle module so another loader can reuse them. It is a working development prototype, not a release build.
+Arcane Games is an in-progress Minecraft minigames mod targeting Java Edition 26.3. Fabric is the current game platform; the plain Java rules and minigame registry now live in the `common` Gradle module so another loader can reuse them. It is a working development prototype, not a release build. The public repository is [github.com/B1progame/Arcane-Games](https://github.com/B1progame/Arcane-Games).
 
 ## What works in source
 

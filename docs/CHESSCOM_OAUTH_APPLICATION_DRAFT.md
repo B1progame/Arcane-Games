@@ -14,7 +14,9 @@ Arcane Games
 
 ## Link to project in progress
 
-Paste a public repository, project website, or prototype URL that you control. Do not submit a guessed URL. The current workspace is not a public link; publish or create a repository first if you do not already have one.
+https://github.com/B1progame/Arcane-Games
+
+This is the public in-progress repository. The README describes the current prototype and its limitations.
 
 ## Public Logo URL (optional)
 
